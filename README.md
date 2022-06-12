@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="center" height="300" width="1050" src="https://i.pinimg.com/originals/5c/96/db/5c96db671218ad7cd5c2798f64e88d09.gif">
+<img align="center" width="1050" src="https://www.google.com/logos/doodles/2014/world-cup-2014-59-6270307799138304-hp.gif">
 
