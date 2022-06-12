@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
-<img align="right" width="400"  src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
+<img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
 
 - 🔭 I’m currently working on [a](b)
 
