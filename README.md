@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
+<img align="right" width="400"  src="https://giphy.com/gifs/ciscoengemojis-security-l1J9RFoDzCDrkqtEc">
 
 - 🔭 I’m currently working on [a](b)
 
