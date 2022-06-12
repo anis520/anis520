@@ -1,7 +1,4 @@
-### Hi there 👋, I am Anisul hoque
-#### I am a  junior web developer
-![I am a  junior web developer](https://scontent.fcgp1-1.fna.fbcdn.net/v/t39.30808-1/285543546_1499340350510613_8811099906129157220_n.jpg?stp=dst-jpg_p160x160&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEOnV_uhHZmgL4Yp5fCOh53ZRc-6Zyw2J5lFz7pnLDYnsxQlTJZ8YeUQO--LnZSMlAwM5hhKf7Pfdnfcex0QSgb&_nc_ohc=WRMru-V7G4cAX8XqV4Q&_nc_ht=scontent.fcgp1-1.fna&oh=00_AT_C2fYeL1QDnJxrxXoABtx8NTdyX8thlFFY6mmaklMKSw&oe=62AAB448)
-
+<img align="center" width="1000" style="border: 2px solid green; border-radius: 5px;" src="[https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)">
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
 <h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
 <img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
