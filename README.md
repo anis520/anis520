@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a](b)
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m currently learning **MernStack** [Stack](Mern)
 
 - 👯 I’m looking to collaborate on [a](g)
 
