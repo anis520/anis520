@@ -1,6 +1,6 @@
-<img align="center" width="1050" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+<img align="center" width="1050" style="border-radius: 30px;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
-<h3 align="center">A passionate frontend and backend developer from Bangladesh</h3>
+<h3 align="center">I am a full stack developer</h3>
 <img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
 
 - 🔭 I’m currently working on [a](b)
