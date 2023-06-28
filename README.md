@@ -3,7 +3,7 @@
 <h3 align="center">I am a full stack developer</h3>
 <img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
 
-- 🔭 I’m currently working on [a](b)
+- 🔭 I’m currently working on [Next.js](b)
 
 - 🌱 I’m currently learning **MernStack** [Stack](Mern)
 
