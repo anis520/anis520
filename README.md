@@ -1,27 +1,26 @@
-<img align="center" width="1050" style="border-radius: 30px;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
-<h1 align="center">Hi 👋, I'm Anisul hoque</h1>
+<img align="center" width="1050" style="border: 30px solid red;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
+<h1 align="center">Hi 👋, I'm Anisul hoques</h1>
 <h3 align="center">I am a full stack developer</h3>
 <img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media.kasperskydaily.com/wp-content/uploads/sites/92/2013/08/06050030/11.gif">
 
-- 🔭 I’m currently working on [Next.js](b)
+- 🦸🏻‍♀️ I’m currently working on [Nest.js](https://nestjs.com/)
 
-- 🌱 I’m currently learning **MernStack** [Stack](Mern)
+- 👨🏻‍🏭 2 years of exprence with [MernStack](b)
 
-- 👯 I’m looking to collaborate on [a](g)
+ - 👨🏻‍🏭 1 years of exprence with [Next.js](https://nextjs.org/)
 
-- 🤝 I’m looking for help with [a](g)
+- 👨‍💻 All of my projects are available at [github](https://github.com/anis520)
 
-- 👨‍💻 All of my projects are available at [a](a)
+- 📝 I regularly reading docs  on programming 
 
-- 📝 I regularly write articles on [a](a)
+- 💬 Ask me about **my - projects**
 
-- 💬 Ask me about **react.js**
+- 📫 How to reach me **anisulhoque587@gmail.com**
+- 👋🏻 Knock me on linkedin [Linkedin](https://www.linkedin.com/in/anisul-hoque-99a335256/)
 
-- 📫 How to reach me **ahisahad520@gmail.com**
+- ⚡ Fun fact **I think i am funny** 🎅🏽
+- 👨🏽‍💻  Programing is my passion
 
-- 📄 Know about my experiences [a](a)
-
-- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
