@@ -1,7 +1,7 @@
 <img align="center" width="1050" style="border: 30px solid red;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
 <h3 align="center">I am a full stack developer</h3>
-<img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
+<img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 - 🦸🏻‍♀️ I’m currently working on [Nest.js](https://nestjs.com/)
 
