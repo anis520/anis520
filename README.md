@@ -1,7 +1,8 @@
 <img align="center" width="1050" style="border: 30px solid red;" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif">
 <h1 align="center">Hi 👋, I'm Anisul hoque</h1>
 <h3 align="center">I am a full stack developer</h3>
-<img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" width="400" style="border: 2px solid green; border-radius: 5px;" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif
+">
 
 - 🦸🏻‍♀️ I’m currently working on [Nest.js](https://nestjs.com/)
 
@@ -34,12 +35,11 @@
 
 
 
-
-
+ 
 
 
 
  
-<img align="center" width="1050" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<img align="center" width="1050" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 
